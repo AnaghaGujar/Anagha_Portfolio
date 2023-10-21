@@ -7,12 +7,6 @@
 
 ![Swiggy](/Images/Swiggy.jpg) 
 
-<strong>TITANIC DATA ANALYSIS</strong>
-•	Performed data cleaning so that we can use the data for analysis and analyzed the People on Titanic based on Pclass, Embarked and diffrerent Age group.
-•	Analysis was done by Python Language and it helps to find the insights of Survivors on Titanic.
-
-![Titanic](/Images/Titanic.jpg) 
-
 <strong>WEBSITE SCRAPPING PROJECT IN PYTHON</strong>
 •	Extract the data from website of Wikipedia with the help of BeautifulSoup where I collected the raw data and transformed it into useful data.
 
